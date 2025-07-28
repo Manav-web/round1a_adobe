@@ -1,0 +1,25 @@
+{
+  "title": "kinetics_intro",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Introduction to Reaction Kinetics",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Rate Laws",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Order of Reaction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Activation Energy",
+      "page": 1
+    }
+  ]
+}

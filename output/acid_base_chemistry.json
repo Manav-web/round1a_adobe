@@ -1,0 +1,25 @@
+{
+  "title": "acid_base_chemistry",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Acid-Base Chemistry",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "pH and pKa",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Strong and Weak Acids",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Buffers",
+      "page": 1
+    }
+  ]
+}

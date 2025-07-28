@@ -1,0 +1,35 @@
+{
+  "title": "sample_test_document",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction to AI",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "What is Artificial Intelligence?",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Brief History",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Applications of AI",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Healthcare",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Diagnosis Assistance",
+      "page": 2
+    }
+  ]
+}
